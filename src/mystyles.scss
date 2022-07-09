@@ -1,0 +1,15 @@
+$primary-color: #e1070e;
+$secudary-color: #efd006;
+
+.red-background{
+    background-color: $primary-color;
+}
+
+body {
+    color: $secudary-color;
+}
+
+
+img {
+    width: 300px;
+}
